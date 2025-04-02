@@ -2,6 +2,8 @@
 
 PRism makes open-source contributions easier by matching developers with repositories based on their skills. With AI-powered recommendations, users get tailored guidance on how to start contributing.  
 
+(Please don't forget to star the repo!)
+
 ---
 
 ## 🌟 Features  
